@@ -5,7 +5,8 @@
 [<img height="32" width="32" background-color='#0A66C2' src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedIn]
 
 # Nice to see you! 
-[visitors](https://visitor-badge.glitch.me/badge?page_id=ernestmummey.visitor-badge)
+
+[visitors](https://visitor-badge.glitch.me/badge?page_id=ernestmummey)
 <!--
 **ernestmummey/ernestmummey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
