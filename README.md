@@ -2,7 +2,7 @@
 
 ### Let's connect
 [<img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[ICON SLUG].svg" />][linkedIn]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedIn]
 <!--
 **ernestmummey/ernestmummey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
