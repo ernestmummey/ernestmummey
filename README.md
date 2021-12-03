@@ -1,5 +1,8 @@
 # Hello y'all, I'm Ernest Mummey 👋
 
+### Let's connect
+[<img align="left" alt="portfolio" width="22px" src="https://raw.gitubusercontent/com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="linkedIn" width="22px" src="https://raw.gitubusercontent/com/iconic/open-iconic/master/svg/globe.svg" />][linkedIn]
 <!--
 **ernestmummey/ernestmummey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[website]: https://ernestmummey.github.io/
+[linkedIn]: https://www.linkedin.com/in/ernest-mummey/
