@@ -3,6 +3,8 @@
 ### Let's connect
 [<img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img height="32" width="32" background-color='#0A66C2' src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedIn]
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 <!--
 **ernestmummey/ernestmummey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 [website]: https://ernestmummey.github.io/
 [linkedIn]: https://www.linkedin.com/in/ernest-mummey/
