@@ -1,8 +1,8 @@
 # Hello y'all, I'm Ernest Mummey 👋
 
 ### Let's connect
-[<img height="32"  width="32px" alt="portfolio" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedIn]
+[<img align="left "height="32"  width="32px" alt="portfolio" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left "height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedIn]
 
 
 
