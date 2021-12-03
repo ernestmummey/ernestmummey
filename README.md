@@ -4,7 +4,8 @@
 [<img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img height="32" width="32" background-color='#0A66C2' src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedIn]
 
-# Nice to see you! [visitors](https://visitor-badge.glitch.me/badge?page_id=ernestmummey.visitor-badge)
+# Nice to see you! 
+[visitors](https://visitor-badge.glitch.me/badge?page_id=ernestmummey.visitor-badge)
 <!--
 **ernestmummey/ernestmummey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
