@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love lifting and in fact have competed in a physique competition
 
 ### Let's connect
-[<img align="left" height="32"  width="32px" alt="portfolio" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" height="32"  width="32px" fill="#0A66C2" alt="portfolio" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedIn]
 
 
