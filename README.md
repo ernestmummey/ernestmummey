@@ -3,7 +3,6 @@
 ## I'm a Veteran and Developer 
 - 🔭 I’m currently heading back to school for a Computer Science Degree
 - 🌱 I have been building fullstack applications for over a year
-- Waiting for that one company to take a chance on a non-degree veteran 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love lifting and surf fishing
 
