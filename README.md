@@ -1,7 +1,7 @@
 # Hello y'all, I'm Ernest Mummey 👋
 
 ## I'm a Veteran and Developer 
-- 🔭 I’m currently heading back to school for a Computer Science Degree
+- 🔭 I’m currently studying at WGU for a BS in Computer Science
 - 🌱 I have been building fullstack applications for over a year
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love lifting and surf fishing
